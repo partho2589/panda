@@ -1,0 +1,22 @@
+.body{
+    width: 1200px;
+}
+
+#navbarSupportedContent{
+    display: flex;
+    align-content: end;
+    justify-items: end;
+}
+
+
+
+
+@media only screen and (max-width: 1200px) {
+    .body{
+        background-color: rgb(248, 221, 181);
+    }
+  }
+
+  .data{
+
+  }
